@@ -122,23 +122,25 @@ List of all software I use or have used
 - MingGCC
 - WinMerge
 - EasyPHP
+- XAMP
 - Putty
 - FileZilla
 - Tortoise Git, SVN, CVS
 - Cygwin Terminal - Unix emulation on Windows
 - WinMerge
 - WireShark
+- Mavin, Ant, Gradle
+
+##### Diagram
+- Yed
 - JustInMind
 - Pencil
 - Dia
-- Yed
 - StarUML
-- Mavin, Ant, Gradle
 
 ##### Database
 - Oracle
 - MySQL
- - Editors:
   - MySQL Workbench
 - MS SQL Server
   - MS SQL Server Management Studio
