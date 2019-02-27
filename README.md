@@ -26,6 +26,12 @@ List of all software I use or have used
 - Opera
 - Maxithon
 
+#### Messaging
+- Pidgin
+- Telegram
+- Skype
+- Thunderbird
+
 #### AntiVirus
 - AVG
 - Macfee
@@ -37,6 +43,11 @@ List of all software I use or have used
 #### Notemaking
 - Cherry Tree
 - Evernote
+
+#### Office 
+- Microsoft
+- Libreoffice
+- Openoffice
 
 #### Desktop Enhancements
 - Launchy : Launch applications
@@ -64,7 +75,8 @@ List of all software I use or have used
 - Uplay
 - Origin
 
-#### Images
+#### Image Editing
+- Photoshop
 - GIMP
 - Inkscape
 - Krita
@@ -72,9 +84,23 @@ List of all software I use or have used
 - IrfanView
 
 #### Development
+##### IDE
 - Intellij
  - PHP Storm
  - Web Storm
+- Code blocks : C++ IDE
+- Dev Cpp : C++ IDE
+- NetBeans
+- Eclipse
+ - AnyEditTools
+ - Eclipse color themes
+ - JadClipse
+ - Emmet (tags autocompletion)
+- Qt Creator
+- Spider - Python IDE
+- Android Studio
+
+##### Code Editors
 - Notepad ++
  - Explorer
  - XMLTools
@@ -85,25 +111,16 @@ List of all software I use or have used
  - Emmet
 - BlueFish
 - Hexplorer - Binary data explorer
-- Code blocks
-- NetBeans
-- Eclipse
- - AnyEditTools
- - Eclipse color themes
- - JadClipse
- - Emmet (tags autocompletion)
 - CodeLite
 - Sublime
 - EditPlus
 - Vim
 - Emacs
-- Qt
+
+##### Tools
 - MingGCC
 - WinMerge
-- Spider - Python IDE
 - EasyPHP
-- Codeigniter
-- Android studio and SDK
 - Putty
 - FileZilla
 - Tortoise Git, SVN, CVS
@@ -116,10 +133,24 @@ List of all software I use or have used
 - Yed
 - StarUML
 - Mavin, Ant, Gradle
-- Java libs
+
+##### Database
+- Oracle
+- MySQL
+###### Editors
+  - MySQL Workbench
+- MS SQL Server
+- SQLite
+- Cassandra
+
+##### Frameworks
+- Java
  - Project lombok
  - Spring, Hibernate
-
+- Codeigniter
+- ExtJS
+- 
+ 
 #### Tools
 - 7Zip
 - Flux
@@ -130,7 +161,6 @@ List of all software I use or have used
 - Pushbullet
 - Picasa
 - Tera Copy
-- LibreOffice
 - TexStudio - Latex editor
 - TexMaker - Latex editor
 - MikTex
@@ -150,8 +180,4 @@ List of all software I use or have used
 - ImgBurn - CD burning utility
 - Sweet Home 3D
 
-#### Messaging
-- Pidgin
-- Telegram
-- Skype
-- Thunderbird
+
