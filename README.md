@@ -88,6 +88,7 @@ List of all software I use or have used
 - Intellij
  - PHP Storm
  - Web Storm
+ - Datagrip
 - Code blocks : C++ IDE
 - Dev Cpp : C++ IDE
 - NetBeans
@@ -137,11 +138,14 @@ List of all software I use or have used
 ##### Database
 - Oracle
 - MySQL
-###### Editors
+ - Editors:
   - MySQL Workbench
 - MS SQL Server
+  - MS SQL Server Management Studio
 - SQLite
+  - DB Browser for SQLite
 - Cassandra
+  - DataStax DevCenter
 
 ##### Frameworks
 - Java
