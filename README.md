@@ -153,7 +153,6 @@ List of all software I use or have used
  - Spring, Hibernate
 - Codeigniter
 - ExtJS
-- 
  
 #### Tools
 - 7Zip
