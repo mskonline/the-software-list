@@ -38,18 +38,18 @@ List of all software I use or have used
 #### Development
 ##### Code Editors
 - Atom Editor [Windows]
- - Atom Beautify
- - Emmet
+  - Atom Beautify
+  - Emmet
 - BlueFish [Windows, Linux]
 - CodeLite [Windows]
 - EditPlus [Windows]
 - Emacs [Linux]
 - Notepad ++ [Windows]
 - Hexplorer - Binary data explorer [Windows]
- - Explorer
- - XMLTools
- - TextFX
- - JSLint
+  - Explorer
+  - XMLTools
+  - TextFX
+  - JSLint
 - Sublime [Windows]
 - Vim [Linux]
 
@@ -63,23 +63,23 @@ List of all software I use or have used
 ##### Frameworks
 - Codeigniter [Windows, Linux]
 - Java [Windows, Linux]
- - Project lombok
- - Spring, Hibernate
+  - Project lombok
+  - Spring, Hibernate
 - ExtJS [Windows]
 
 ##### IDE
 - Android Studio [Windows, Linux]
 - Code blocks : C++ IDE [Windows, Linux]
 - Eclipse [Windows, Linux]
- - AnyEditTools
- - Eclipse color themes
- - JadClipse
- - Emmet (tags autocompletion)
+  - AnyEditTools
+  - Eclipse color themes
+  - JadClipse
+  - Emmet (tags autocompletion)
 - Dev Cpp : C++ IDE [Windows]
 - Intellij [Windows, Linux]
- - PHP Storm
- - Web Storm
- - Datagrip
+  - PHP Storm
+  - Web Storm
+  - Datagrip
 - NetBeans [Windows, Linux]
 - Qt Creator [Windows, Linux]
 - Spider - Python IDE [Windows, Linux]
