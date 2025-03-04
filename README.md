@@ -95,6 +95,8 @@ List of all software I use or have used
 - WinMerge [Windows]
 - WireShark [Windows]
 - XAMP [Windows]
+- [System Informer](https://systeminformer.sourceforge.io) [Windows]
+  - Multi Purpose tool to monitor system resources
 
 #### File sharing
 - Dropbox [Windows, Linux]
