@@ -3,7 +3,7 @@ List of all software I use or have used
 
 ## Platforms
 - [PC](#pc)
-- Mobile
+- [Mobile](#mobile-android-apps)
 
 
 ### PC
@@ -24,6 +24,8 @@ List of all software I use or have used
 - Oracle [Windows, Linux]
 - SQLite [Windows, Linux]
   - DB Browser for SQLite
+  - [SQLiteBrowser](https://sqlitebrowser.org/)
+  - [SQLiteStudio](https://sqlitestudio.pl/)
 
 #### Desktop Enhancements
 - Classic Start Menu : Windows 7 menu [Windows]
@@ -83,6 +85,7 @@ List of all software I use or have used
 - NetBeans [Windows, Linux]
 - Qt Creator [Windows, Linux]
 - Spider - Python IDE [Windows, Linux]
+- [Visual Studio Code](https://code.visualstudio.com/)
 
 ##### Tools
 - Cygwin Terminal - Unix emulation on Windows [Windows]
@@ -99,10 +102,12 @@ List of all software I use or have used
   - Multi Purpose tool to monitor system resources
 
 #### File sharing
-- Dropbox [Windows, Linux]
+- Dropbox [Windows, Linux, Mac]
 - Google Drive [Windows]
+- One Drive [Windows]
 
 #### Gaming
+- Epic [Windows]
 - Origin [Windows]
 - Steam [Windows, Linux]
 - Uplay [Windows]
@@ -116,6 +121,7 @@ List of all software I use or have used
 - Photoshop [Windows]
 
 #### Internet
+- Brave
 - Chrome [Windows, Linux]
   - AdBlock
   - JSONView
@@ -133,10 +139,11 @@ List of all software I use or have used
 - Opera [Windows, Linux]
 
 #### Messaging
-- Pidgin [Linux]
+- Pidgin [Windows, Linux]
 - Skype [Windows]
 - Telegram [Windows, Linux]
 - Thunderbird [Windows, Linux]
+- WhatsApp [Windows, Mac]
 
 #### Multi media
 - Amrok [Windows, Linux]
@@ -148,7 +155,14 @@ List of all software I use or have used
 - Realplayer [Windows]
 - Spotify [Windows, Linux]
 - VLC [Windows, Linux]
+- Winamp [Windows]
 - Xaile [Linux]
+
+#### Notes
+- Cherry Tree - Hierarchical note making [Windows, Linux]
+- Evernote - Note making[Windows, Linux]
+- Obsidian [Windows, Linux, Mac]
+- RedNoteBook - Journals [Windows]
 
 #### Office 
 - Microsoft [Windows]
@@ -157,15 +171,14 @@ List of all software I use or have used
 
 #### Tools
 - 7Zip - Compressed files extracting utility [Windows]
-- Cherry Tree - Hierarchical note making [Windows, Linux]
 - BlueStacks - Android app container [Windows]
 - Bulk Rename Utility [Windows]
 - Celestia [Windows, Linux]
 - Calibre [Windows]
 - DirSync Pro [Windows]
-- Evernote - Note making[Windows, Linux]
 - Flux [Windows]
 - FreeCommander XE [Windows]
+- FreeFileSync - Sync files between devices [Windows, Linux, Mac]
 - FreeMind [Windows]
 - GreenShot - Desktop screenshot utility[Windows]
 - ImgBurn - CD burning utility [Windows]
@@ -175,7 +188,6 @@ List of all software I use or have used
 - Ninite - Bulk software installation [Windows]
 - Picasa - Image organiser[Windows]
 - Pushbullet - [Windows]
-- RedNoteBook - Journals [Windows]
 - Task Coach - Task manager [Windows]
 - Tera Copy [Windows]
 - TexStudio - Latex editor [Windows]
@@ -189,6 +201,7 @@ List of all software I use or have used
 - VMWare Player - Virtualization [Windows, Linux]
 - WordWeb - Dictionary [Windows]
 
+---
 
 ### Mobile [Android Apps]
 
