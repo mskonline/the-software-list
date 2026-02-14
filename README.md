@@ -2,7 +2,7 @@
 List of all software I use or have used
 
 ## Platforms
-- PC
+- [PC](#pc)
 - Mobile
 
 
@@ -192,12 +192,37 @@ List of all software I use or have used
 
 ### Mobile [Android Apps]
 
-#### AntiVirus
-None
+#### Auto
+- 7-Eleven
+- GasBuddy
+- Progressive
+- Tollmate
 
 #### File sharing
 - Dropbox
 - Google Drive
+
+#### Email
+- GMail
+- Proton mail
+- Yahoo mail
+
+#### Finance
+- CashApp
+- EveryDollar
+- iWallet
+- Mint
+- Money Manager
+- Paypal
+- Remitly
+- Robinhood
+- Splitwise
+- Venmo
+- Xoom
+
+#### Fitness
+- Home Workout
+- Planet Fitness
 
 #### Food
 - Cavier
@@ -220,9 +245,21 @@ None
 - Firefox
 - Firefox Focus
 
+#### Learning
+- Duolingo
+- Goodreads
+- Kindle
+- Magzter
+- Moon+ Reader
+- Udemy
+- Wikipedia
+- Wordweb
+
 #### Messaging
+- Discord
 - Facebook Messenger
 - Skype
+- Snapchat
 - Signal
 - Slack
 - Teams
@@ -243,76 +280,67 @@ None
 - Shazam
 - Spotify
 - Twitch
+- YT Music
+
+#### News
+- Dallas News
+- Google News
+- Ground News
+- Inoreader
+
+#### Notes
+- ColorNote
+- Daylio
+- Diaro
+- Evernote
+- Obsidian
+- S. Notes
+- Trello
 
 #### Office
 - Google Sheets
 - WPS Office
 
+#### Productivity
+- Pomodoro
+- Splendo To do list
+- Todoist
+
 #### Shopping
+- CVS
 - Amazon
 - Ebay
+- Groupon
+- Instacart
+- Walmart
 - Wayfair
+- Yelp
 
 #### Social Networking
+- Bumble
+- Dil Mil
 - Facebook
+- Hinge
 - Instagram
 - LinkedIn
+- Match
 - Meetup
 - Nextdoor
+- OkCupid
 - Quora
 - Reddit is fun
+- Tinder
 - Twitter
 
 #### Tools
-- Bumble
 - CamScanner
-- CashApp
 - CCleaner
-- ColorNote
 - Cplus for Craigslist
 - CPU-Z
-- CVS
-- Dallas News
 - DarkSky
-- Daylio
-- Diaro
-- Dil Mil
-- Duolingo
-- Evernote
-- EveryDollar
-- GasBuddy
-- Goodreads
-- GoPass
+- HouseBook
 - GreatClips
-- Groupon
-- Hinge
-- iWallet
-- Magzter
-- Match
-- Mint
-- Moon+ Reader
-- OkCupid
-- Paypal
-- Planet Fitness
-- Pomodoro
-- Remitly
-- Robinhood
 - Ruler
-- S. Notes
-- Splitwise
-- Splendo To do list
-- Tinder
-- Tollmate
-- Trello
-- Udemy
-- Venmo
-- Walmart
-- Wikipedia
-- Wordweb
-- Xoom
-- Yahoo mail
-- Yelp
-- YT Music
 
 #### Travel
 - Android Auto
@@ -322,6 +350,7 @@ None
 - Hotels.com
 - Google Maps
 - Google Trips
+- GoPass
 - Momondo
 - Lyft
 - OsmAnd
